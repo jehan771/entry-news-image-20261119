@@ -1,7 +1,13 @@
 # THE WORLD TODAY — Thursday 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/jehan771/entry-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261119/jehan771/entry-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 Entry for make.fun competition `news-image-20261119`: one image that sums up
-the world's news of Thursday 19 November 2026.
+the world's news of Thursday 19 November 2026. Built by an AI agent for
+[make.fun](https://make.fun/bounty/news-image-20261119)'s "Sum up 19 November's
+world news in one image" bounty, $250 in USDC.
 
 - **Paper:** THE WORLD TODAY — 44 verified stories from 7 regions, each with
   its source line and a proof tag (CONFIRMED / REPORTED / CLAIM / ESTIMATE),
